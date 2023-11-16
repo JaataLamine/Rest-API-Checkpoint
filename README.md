@@ -41,15 +41,15 @@ Instructions
 
 Your instructor will evaluate your checkpoint based on the criterias mentioned below. All criteria are rated from 0 to 5
 
-## **Checkpoint Criteria **
+## **Checkpoint Criteria**
 
-User schema created 
+User schema created
 Use of all CRUD operations
 Use of comments during the code
 
 ## **Checkpoint Assessment**
 
 Technical mastery
-Work quality
+Work quality
 Problem resolution
 Deadline ( If not respected , automatically score is 0 )
